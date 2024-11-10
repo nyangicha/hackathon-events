@@ -72,6 +72,12 @@ nav a{
     display: flex;
     flex-wrap: wrap;
 }
+.section{
+    margin: 2em 0;
+}
+.text-success{
+    color: #198754;
+}
 
 @media (max-width:1200px){
     .container-main{
